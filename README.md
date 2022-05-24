@@ -1,5 +1,2 @@
-- 👋 hi, im guinea pig
-- 💗 i veri like sleep
-- 🍅 i also like tomatooooo!
-- 🥔 mommy call me potato pig :(
-- 🌱 im learning coding now cos im smart 
+- 👋 hi, im a guinea pig
+- 🥔 but mommy calls me potato pig :(
