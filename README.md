@@ -1,2 +1,3 @@
-- 👋 hi, im a guinea pig
+- 👋 hi, im guinea pig
 - 🥔 but mommy calls me potato pig :(
+- 🍅 i like eating tomatoes and coding
