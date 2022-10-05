@@ -1,3 +1,3 @@
-- 👋 hi, im guinea pig
-- 🥔 but mommy calls me potato pig :(
-- 🍅 i like eating tomatoes and coding
+- 👋 hi, i'm Kancheng's guinea pig
+- 🥔 but she calls me potato pig :(
+- 🍅 i like eating tomatoes and do coding :3
